@@ -16,6 +16,10 @@ body {
     color: #111E6C;
 }
 
+.search-backround {
+    background-color: #f6f6f6;
+}
+
 .toplogo {
     width: 2.5em;
     height: auto;
