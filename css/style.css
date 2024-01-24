@@ -12,8 +12,16 @@ body {
     font-weight: 300;
 }
 
+.content-text {
+    font-size: 0.8em;
+}
+
 .select-color {
     color: #111E6C;
+}
+
+.bg-select {
+    border-color: #111E6C;
 }
 
 .toplogo {
