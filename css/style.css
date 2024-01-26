@@ -9,10 +9,6 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-footer {
-    height: 380px;
-}
-
 .medium {
     font-weight: 500;
 }
@@ -22,7 +18,7 @@ footer {
 }
 
 .content-text {
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .select-color {
